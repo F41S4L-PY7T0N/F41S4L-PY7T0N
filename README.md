@@ -20,11 +20,9 @@ Nothing...
 
 ---
 
-## 🌐 Website & Projects
+## 🌐 Website
 
 - 🌍 [faisalwebsite.uk](https://faisalwebsite.uk)  
-- 📊 [My Class](https://faisalwebsite.uk/my_class)  
-- 📅 [Taqwemi](https://faisalwebsite.uk/projects/taqwemi)  
 
 ---
 
